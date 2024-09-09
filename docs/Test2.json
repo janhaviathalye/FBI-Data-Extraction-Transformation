@@ -1,0 +1,1816 @@
+{
+    "total": 1007,
+    "items": [
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/download.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "KEVIN BRAME",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame2.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame3.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame3.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/kevin-brame/brame3.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "5205142b7d724a36978265e00c88b309",
+        "path": "/wanted/seeking-info/kevin-brame",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>On November 1, 1999, Kevin Brame, a 6-year-veteran of the Dayton Police Department, was murdered in front of 624 Cherry Drive, Dayton, Ohio. He was returning his two children to his estranged wife after a visitation.\u00a0 Brame was ambushed and fatally shot one time in the neck by an unknown suspect or suspects as he attempted to enter his vehicle which was parked in the driveway of the residence.\u00a0 Brame was found to be in possession of his service weapon and belongings, suggesting it was not a robbery.\u00a0</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Seeking Information"
+        ],
+        "eyes": null,
+        "publication": "2023-12-20T08:56:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/seeking-info/kevin-brame",
+        "warning_message": null,
+        "reward_text": "The FBI is offering a reward of up to $15,000 for information leading to the arrest of a suspect or suspects involved in the murder of Dayton Police Officer Kevin Brame.",
+        "age_max": null,
+        "field_offices": [
+          "cincinnati"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "information",
+        "scars_and_marks": null,
+        "sex": null,
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": null,
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:34+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Murder Victim\r\nDayton, Ohio\r\nNovember 1, 1999",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/5205142b7d724a36978265e00c88b309"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/download.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "BRANDON LEE WAGONER",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/brandon_wagoner_2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/brandon_wagoner_2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner/brandon_wagoner_2.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "91e9976624e54d9594d580e09f16ab16",
+        "path": "/wanted/seeking-info/brandon-lee-wagoner",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>On May 30, 2023, the body of 33-year-old Brandon Lee Wagoner was found along the Blue Ridge Parkway near milepost 221 in Alleghany County, North Carolina. Law enforcement rangers from the National Park Service determined Wagoner was hit by a vehicle and killed. Investigators are looking for witnesses who traveled along the Blue Ridge Parkway on the evening of May 29, 2023, or in the early morning hours of May 30, 2023.</p>\r\n<p>\u00a0</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Seeking Information"
+        ],
+        "eyes": null,
+        "publication": "2023-09-20T10:03:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/seeking-info/brandon-lee-wagoner",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "charlotte"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "information",
+        "scars_and_marks": null,
+        "sex": null,
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": null,
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:34+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Hit-and-Run Victim\r\nAlleghany County, North Carolina\r\nMay 30, 2023",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/91e9976624e54d9594d580e09f16ab16"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez/cedillosrodriguezspanish.pdf/@@download/file/cedillosrodriguezSpanish.pdf",
+            "name": "EN ESPAOL"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "EDWIN ERNESTO CEDILLOS-RODRIGUEZ",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "cd626d1aedfd4acc816a1a3a418b1472",
+        "path": "/wanted/cei/edwin-ernesto-cedillos-rodriguez",
+        "remarks": null,
+        "aliases": [
+          "\"Renuente de Abriles Dangers\""
+        ],
+        "ncic": null,
+        "details": null,
+        "subjects": [
+          "Criminal Enterprise Investigations"
+        ],
+        "eyes": null,
+        "publication": "2022-10-03T09:05:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White (Hispanic)",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "September 2, 1987"
+        ],
+        "url": "https://www.fbi.gov/wanted/cei/edwin-ernesto-cedillos-rodriguez",
+        "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": null,
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": "Salvadoran",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": "hispanic",
+        "suspects": null,
+        "caution": "<p>Edwin Ernesto Cedillos-Rodriguez is wanted for his alleged involvement in the direction of MS-13 activity in the United States, Mexico, and El Salvador.\u00a0 He is alleged to be a senior leader of MS-13.\u00a0 Cedillos-Rodriguez has been charged with several offenses for his alleged role in ordering numerous acts of violence against civilians and rival gang members, as well as his role in drug distribution and extortion schemes in the United States and El Salvador.\u00a0 A federal arrest warrant was issued for Cedillos-Rodriguez in the United States District Court, Eastern District of New York, Central Islip, New York, on September 22, 2022, after he was charged with Conspiracy to Provide Material Support to Terrorists, Narco-Terrorism Conspiracy, and Racketeering Conspiracy.</p>\r\n<p>\u00a0</p>\r\n<p>This case is being investigated as part of Joint Task Force Vulcan.</p>\r\n<p>\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:34+00:00",
+        "languages": [
+          "Spanish"
+        ],
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Provide and Conceal Material Support and Resources to Terrorists; Narco-Terrorism Conspiracy; Racketeering Conspiracy",
+        "place_of_birth": "Cuscatancingo, San Salvador, El Salvador",
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/cd626d1aedfd4acc816a1a3a418b1472"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemirussian.pdf/@@download/file/kazemirussian.pdf",
+            "name": " "
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemiturkish2.pdf/@@download/file/kazemiturkish2.pdf",
+            "name": "TRKE DE"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemiarabic.pdf/@@download/file/kazemiarabic.pdf",
+            "name": " "
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/kazemifarsi3.pdf/@@download/file/kazemifarsi3.pdf",
+            "name": "  "
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "SHAYAN KAZEMI",
+        "images": [
+          {
+            "caption": "Photograph taken in 2009",
+            "large": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "952a0f45262b4a3a80f3d7839dda45fd",
+        "path": "/wanted/kidnap/shayan-kazemi-1",
+        "remarks": "<p>Kazemi was last seen wearing a blue, striped shirt and a gray suit and is known to wear a necklace with a gold cross. He has Type 2 Diabetes and takes medication to manage it. He is known to smoke cigarettes, at one point, approximately two packs a day.</p>",
+        "aliases": [
+          "Shayn Kaviani",
+          "Asgar Kazemi",
+          "Askar Kazemi"
+        ],
+        "ncic": null,
+        "details": "<p>Shayan Kazemi departed the United States from Los Angeles, California, on September 24, 2011. He arrived in Istanbul, Turkey, on September 24, 2011, and last made contact with his family by telephone on September 25, 2011, from the Istanbul Royal Hotel, Aksaray Caddesi No. 16, 34480 Laleli, Istanbul, Turkey. He has not been heard from since that time.</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Kidnappings and Missing Persons"
+        ],
+        "eyes": "brown",
+        "publication": "2012-11-06T07:00:00",
+        "complexion": "Medium",
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Victim",
+        "dates_of_birth_used": [
+          "March 22, 1959"
+        ],
+        "url": "https://www.fbi.gov/wanted/kidnap/shayan-kazemi-1",
+        "warning_message": null,
+        "reward_text": "The United States Government is offering a reward of up to $200,000 for information leading directly to the safe location, recovery, and return of Shayan Kazemi.",
+        "age_max": null,
+        "field_offices": [
+          "washingtondc"
+        ],
+        "height_min": null,
+        "weight_min": 90,
+        "additional_information": null,
+        "weight_max": 198,
+        "build": "Medium",
+        "height_max": null,
+        "occupations": [
+          "Television Broadcaster"
+        ],
+        "nationality": "United States",
+        "reward_max": 0,
+        "poster_classification": "missing",
+        "scars_and_marks": "Kazemi has large brown moles on top of his left wrist and on his right temple.",
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown with graying (short beard and mustache)",
+        "hair": "brown",
+        "race": null,
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:33+00:00",
+        "languages": [
+          "English",
+          "Turkish",
+          "Spanish",
+          "Japanese",
+          "Persian (Farsi)"
+        ],
+        "legat_names": [
+          "eurasia-2"
+        ],
+        "age_range": null,
+        "description": "September 25, 2011\r\nIstanbul, Turkey",
+        "place_of_birth": "Iran",
+        "weight": "90 kg (198 pounds)",
+        "@id": "https://api.fbi.gov/@wanted-person/952a0f45262b4a3a80f3d7839dda45fd"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/additional/trung-duc-lu/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trungluvietnamese2.pdf/@@download/file/trungluvietnamese2.pdf",
+            "name": "Trong ting vit"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "TRUNG DUC LU",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo2.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglutattoo1.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/additional/trung-duc-lu/trunglu2.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "d1af1b9c5c3648ebb1cf926cb8c4fb09",
+        "path": "/wanted/additional/trung-duc-lu",
+        "remarks": "<p>Trung Duc Lu was born in the Republic of Vietnam and moved to the United States as a teenager.\u00a0 He has strong ties to New York City, where he resided in the borough of Queens.\u00a0 Lu was last confirmed to be in the Republic of Vietnam.\u00a0 He speaks both English and Vietnamese.</p>\r\n<p>Lu is a suspected member of the Born to Kill street gang, also known as BTK or Canal Boys.</p>",
+        "aliases": [
+          "Trung D. Lu",
+          "Tuan Hoang",
+          "Phong Le",
+          "Phong Van Le",
+          "Brendan Lu",
+          "Calvin Lu",
+          "Trung Lu",
+          "Duc Trung",
+          "Duc L. Trung",
+          "Lu Trung",
+          "\"B\""
+        ],
+        "ncic": "W660651561",
+        "details": null,
+        "subjects": [
+          "Additional Violent Crimes"
+        ],
+        "eyes": "brown",
+        "publication": "2020-04-29T12:04:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "Asian",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "October 1, 1980",
+          "December 2, 1979",
+          "December 9, 1979",
+          "November 13, 1980",
+          "October 1, 1981",
+          "October 10, 1982"
+        ],
+        "url": "https://www.fbi.gov/wanted/additional/trung-duc-lu",
+        "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN INTERNATIONAL FLIGHT RISK",
+        "reward_text": "The FBI is offering a reward of up to $50,000 for information leading directly to the arrest of Trung Duc Lu.",
+        "age_max": null,
+        "field_offices": [
+          "philadelphia"
+        ],
+        "height_min": 67,
+        "weight_min": 140,
+        "additional_information": null,
+        "weight_max": 140,
+        "build": null,
+        "height_max": 67,
+        "occupations": [
+          "Nail Technician"
+        ],
+        "nationality": "Vietnamese",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": "Lu has numerous tattoos including a dragon in the center of his back with the words \u201cAsian Pride\u201d in large script above it, and an unknown tattoo over his left pectoral.  Both of his upper arms are heavily tattooed including a dragon and claw design and a tiger.",
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": "asian",
+        "suspects": null,
+        "caution": "<p>Trung Duc Lu is wanted in connection with the August 2014 torture, kidnapping, and murder of two Vietnamese brothers in Philadelphia, Pennsylvania.\u00a0 A third male was also tortured and kidnapped, but managed to survive the attack.\u00a0 On July 10, 2019, a federal arrest warrant was issued for Lu in the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania, after he was charged with\u00a0Conspiracy to Commit Kidnapping; Kidnapping (3 Counts); Interstate Travel in Aid of Racketeering; Conspiracy to Collect an Extension of Credit by Extortionate Means; Collection of an Extension of Credit by Extortionate Means; Conspiracy to Distribute Marijuana; and Aiding and Abetting.</p>\r\n<p>\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:33+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Commit Kidnapping; Kidnapping (3 Counts); Interstate Travel in Aid of Racketeering; Conspiracy to Collect an Extension of Credit by Extortionate Means; Collection of an Extension of Credit by Extortionate Means; Conspiracy to Distribute Marijuana; Aiding and Abetting",
+        "place_of_birth": "Republic of Vietnam",
+        "weight": "140 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/d1af1b9c5c3648ebb1cf926cb8c4fb09"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/download.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "CARMEN CHARGER",
+        "images": [
+          {
+            "caption": "Carmen Charger",
+            "large": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/@@images/image"
+          },
+          {
+            "caption": "Delmas Traversie, Jr.",
+            "large": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/carmen-charger/delmas_traversie.png"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "66802fe008634da18d76070e809e2271",
+        "path": "/wanted/seeking-info/carmen-charger",
+        "remarks": "<p>Charger was an enrolled member of the Cheyenne River Sioux Tribe Indian Reservation.</p>",
+        "aliases": [
+          "\"Happy\""
+        ],
+        "ncic": null,
+        "details": "<p>The Federal Bureau of Investigation's Minneapolis Field Office, Pierre, South Dakota, Resident Agency, along with the Cheyenne River Sioux Tribe Law Enforcement Services, is seeking the public\u2019s assistance in identifying the unknown individual(s) responsible for the murders of Carmen Charger and <a href=\"https://www.fbi.gov/wanted/seeking-info/delmas-traversie-jr-\" data-val=\"b659218ef3554ffe960878620f184cb6\" data-linktype=\"internal\" data-urltype=\"_direct_\">Delmas Traversie, Jr.</a>, in Eagle Butte, South Dakota, in March of 2019.</p>\r\n<p>From March 13, 2019, through March 15, 2019, a snow storm occurred in most of South Dakota. Charger, 39, and Traversie, Jr., 63, were killed at House 717, No Heart Housing, in Eagle Butte around that time. Anyone with information related to their deaths or related to the presence of individuals frequenting House 717 around the time of this snow storm is asked to contact the FBI.</p>",
+        "subjects": [
+          "Seeking Information",
+          "Indian Country"
+        ],
+        "eyes": "brown",
+        "publication": "2020-04-17T08:26:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "Native American",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "October 23, 1979"
+        ],
+        "url": "https://www.fbi.gov/wanted/seeking-info/carmen-charger",
+        "warning_message": null,
+        "reward_text": "The FBI is offering a reward of up to $10,000 for information that leads to an arrest and conviction in this case.",
+        "age_max": null,
+        "field_offices": [
+          "minneapolis"
+        ],
+        "height_min": 69,
+        "weight_min": 210,
+        "additional_information": null,
+        "weight_max": 210,
+        "build": null,
+        "height_max": 69,
+        "occupations": null,
+        "nationality": "American",
+        "reward_max": 0,
+        "poster_classification": "information",
+        "scars_and_marks": "Charger had 15 diamonds tattooed on the right side of her face.",
+        "sex": "Female",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown",
+        "hair": "brown",
+        "race": "native",
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:33+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Homicide Victim\r\nEagle Butte, South Dakota\r\nMarch 2019",
+        "place_of_birth": "Rapid City, South Dakota",
+        "weight": "210 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/66802fe008634da18d76070e809e2271"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/apt-41-group/apt-41-group-cyber-wanted-web.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/apt-41-group/apt41chinese.pdf/@@download/file/APT41Chinese.pdf",
+            "name": " Chinese (Simplified)"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "APT 41 GROUP",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/@@images/image"
+          },
+          {
+            "caption": "ZHANG Haoran",
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/zhang-haoran.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/zhang-haoran.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/zhang-haoran.jpg"
+          },
+          {
+            "caption": "TAN Dailin",
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/tan-dailin.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/tan-dailin.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/tan-dailin.jpg"
+          },
+          {
+            "caption": "QIAN Chuan",
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/qian-chuan2a.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/qian-chuan2a.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/qian-chuan2a.jpg"
+          },
+          {
+            "caption": "FU Qiang",
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/fu-qiang3a.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/fu-qiang3a.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/fu-qiang3a.jpg"
+          },
+          {
+            "caption": "JIANG Lizhi",
+            "large": "https://www.fbi.gov/wanted/cyber/apt-41-group/jiang-lizhi2a.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/apt-41-group/jiang-lizhi2a.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/apt-41-group/jiang-lizhi2a.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "32eeba50d906400786c23ed38133fd04",
+        "path": "/wanted/cyber/apt-41-group",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": null,
+        "subjects": [
+          "Cyber's Most Wanted",
+          "China Threat"
+        ],
+        "eyes": null,
+        "publication": "2020-09-03T09:18:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/cyber/apt-41-group",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "washingtondc"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": null,
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": null,
+        "suspects": null,
+        "caution": "<p><a href=\"https://www.fbi.gov/wanted/cyber/zhang-haoran\" data-val=\"https://www.fbi.gov/wanted/cyber/zhang-haoran\" data-linktype=\"external\" data-urltype=\"/view\">ZHANG Haoran</a>, <a href=\"https://www.fbi.gov/wanted/cyber/tan-dailin\" data-val=\"https://www.fbi.gov/wanted/cyber/tan-dailin\" data-linktype=\"external\" data-urltype=\"/view\">TAN Dailin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/qian-chuan\" data-val=\"https://www.fbi.gov/wanted/cyber/qian-chuan\" data-linktype=\"external\" data-urltype=\"/view\">QIAN Chuan</a>, <a href=\"https://www.fbi.gov/wanted/cyber/fu-qiang\" data-val=\"https://www.fbi.gov/wanted/cyber/fu-qiang\" data-linktype=\"external\" data-urltype=\"/view\">FU Qiang</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/jiang-lizhi\" data-val=\"https://www.fbi.gov/wanted/cyber/jiang-lizhi\" data-linktype=\"external\" data-urltype=\"/view\">JIANG Lizhi</a> are all part of a Chinese hacking group known as APT 41 and BARIUM.</p>\r\n<p>\u00a0</p>\r\n<p>On August 15, 2019, a Grand Jury in the District of Columbia returned an indictment against Chinese nationals <a href=\"https://www.fbi.gov/wanted/cyber/zhang-haoran\" data-val=\"https://www.fbi.gov/wanted/cyber/zhang-haoran\" data-linktype=\"external\" data-urltype=\"/view\">ZHANG Haoran</a> and <a href=\"https://www.fbi.gov/wanted/cyber/tan-dailin\" data-val=\"https://www.fbi.gov/wanted/cyber/tan-dailin\" data-linktype=\"external\" data-urltype=\"/view\">TAN Dailin</a> on charges including Unauthorized Access to Protected Computers, Aggravated Identity Theft, Money Laundering, and Wire Fraud.\u00a0 These charges primarily stemmed from alleged activity targeting high technology and video gaming companies, and a United Kingdom citizen.</p>\r\n<p>\u00a0</p>\r\n<p>On August 11, 2020, a Grand Jury in the District of Columbia returned an indictment against Chinese nationals <a href=\"https://www.fbi.gov/wanted/cyber/qian-chuan\" data-val=\"https://www.fbi.gov/wanted/cyber/qian-chuan\" data-linktype=\"external\" data-urltype=\"/view\">QIAN Chuan</a>, <a href=\"https://www.fbi.gov/wanted/cyber/fu-qiang\" data-val=\"https://www.fbi.gov/wanted/cyber/fu-qiang\" data-linktype=\"external\" data-urltype=\"/view\">FU Qiang</a>, and <a href=\"https://www.fbi.gov/wanted/cyber/jiang-lizhi\" data-val=\"https://www.fbi.gov/wanted/cyber/jiang-lizhi\" data-linktype=\"external\" data-urltype=\"/view\">JIANG Lizhi</a> on charges including Racketeering, Money Laundering, Fraud, Identity Theft, and Access Device Fraud. These charges stem from their alleged unauthorized computer intrusions while employed by Chengdu 404 Network Technology Company.\u00a0 The defendants allegedly conducted supply chain attacks to gain unauthorized access to networks throughout the world, targeting\u00a0hundreds of companies representing a broad array of industries to include: social media, telecommunications, government, defense, education, and manufacturing.\u00a0These victims included companies in Australia, Brazil, Germany, India, Japan and Sweden.\u00a0 The defendants allegedly targeted telecommunications providers in the United States, Australia, China (Tibet), Chile, India, Indonesia, Malaysia, Pakistan, Singapore, South Korea, Taiwan, and Thailand. The defendants allegedly deployed ransomware attacks and demanded payments from victims.</p>\r\n<p>\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:32+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/32eeba50d906400786c23ed38133fd04"
+      },
+      {
+        "age_min": 36,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas/alert-2024-03-10_2023_mp_bridgecitypd.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "ALEXANDER STUART JAMES - BRIDGE CITY, TEXAS",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "ac609431eee449b1815c5b8b8ac3414f",
+        "path": "/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>Alexander James was last seen on February 21, 2022, working in the front yard of his residence in Bridge City, Texas. James was wearing a forest green long-sleeved shirt, blue jean pants, tan work boots, and he had an orange climbing rope. James made a living as a tree trimmer. James left behind his Texas identification card and personal belongings. James does not own any transportation. It is unknown if he left on foot or in a vehicle with an unknown person. According to family member's, James is known to disappear or \u201cgo off the grid\u201d for short periods of time. However, it\u2019s unusual for him not to have any contact with his ex-wife and young son.</p>\r\n<p>The Bridge City Police Department is asking for assistance in locating James or providing details of his disappearance.</p>",
+        "subjects": [
+          "ViCAP Missing Persons"
+        ],
+        "eyes": "brown",
+        "publication": "2024-03-28T11:40:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White",
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/vicap/missing-persons/alexander-stuart-james---bridge-city-texas",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": 36,
+        "field_offices": null,
+        "height_min": 69,
+        "weight_min": 160,
+        "additional_information": null,
+        "weight_max": 160,
+        "build": null,
+        "height_max": 69,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown",
+        "hair": "brown",
+        "race": "white",
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:32+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": "36 (at the time of disappearance)",
+        "description": "February 21, 2022\r\nBridge City, Texas",
+        "place_of_birth": null,
+        "weight": "160 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/ac609431eee449b1815c5b8b8ac3414f"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/sanchezfelixspanish.pdf/@@download/file/sanchezfelixSpanish.pdf",
+            "name": "EN ESPAOL"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "JESUS ALEXANDRO SANCHEZ FELIX",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_1.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_1.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_1.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_4.png/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_4.png/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_4.png"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_5.png/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_5.png/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_5.png"
+          },
+          {
+            "caption": "Photograph taken March 2002",
+            "large": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_3.png/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_3.png/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix/ruso_3.png"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "3a8af7eedbcd4406a7c44b9ed0068d2e",
+        "path": "/wanted/cei/jesus-alexandro-sanchez-felix",
+        "remarks": "<p>Jesus Alexandro Sanchez Felix is believed to be in Mexicali, Baja, Mexico. He also has ties to\u00a0Sinaloa, Mexico,\u00a0California and Oregon.</p>",
+        "aliases": [
+          "Alejandro Fernandez Felix",
+          "\"El Russo\"",
+          "\"El Ruso\"",
+          "\"Alex\"",
+          "Juan Jose Ponce Felix",
+          "Alex Sanchez",
+          "\"Ruso\"",
+          "\"Ginete\"",
+          "\"Alejandro\"",
+          "Jesus Alejandro Sanchez",
+          "Jesus Sanchez Felix"
+        ],
+        "ncic": "W446251137",
+        "details": null,
+        "subjects": [
+          "Criminal Enterprise Investigations"
+        ],
+        "eyes": "brown",
+        "publication": "2024-03-28T08:31:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White (Hispanic)",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "June 20, 1982",
+          "June 30, 1982"
+        ],
+        "url": "https://www.fbi.gov/wanted/cei/jesus-alexandro-sanchez-felix",
+        "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "losangeles"
+        ],
+        "height_min": 71,
+        "weight_min": 180,
+        "additional_information": null,
+        "weight_max": 180,
+        "build": null,
+        "height_max": 71,
+        "occupations": null,
+        "nationality": "Mexican",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": "hispanic",
+        "suspects": null,
+        "caution": "<p>Jesus Alexandro Sanchez Felix is wanted for his alleged involvement in\u00a0narcotics trafficking, hostage taking, and money laundering as part of\u00a0the Sinaloa Drug Trafficking Organization.\u00a0 On October 15, 2015, Jesus Alexandro Sanchez Felix was indicted in the United States District Court, Central District of California, Los Angeles, California, and an arrest warrant was issued for his arrest based on the following charges: Racketeer Influenced and Corrupt Organizations (RICO) Conspiracy; Violent Crime in Aid of Racketeering; Conspiracy to Distribute Controlled Substances; Conspiracy to Import Controlled Substances: Hostage Taking Conspiracy and Hostage Taking; Conspiracy to Launder Money; Carry and Use of a Firearm in Furtherance of a Crime of Violence or Drug Trafficking Crime; and Criminal Forfeiture.</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:32+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Racketeer Influenced and Corrupt Organizations (RICO) Conspiracy; Violent Crime in Aid of Racketeering; Conspiracy to Distribute Controlled Substances; Conspiracy to Import Controlled Substances; Hostage Taking Conspiracy and Hostage Taking; Conspiracy to Launder Money; Carry and Use of a Firearm in Furtherance of a Crime of Violence or Drug Trafficking Crime; Criminal Forfeiture",
+        "place_of_birth": "Mexico",
+        "weight": "180 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/3a8af7eedbcd4406a7c44b9ed0068d2e"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua/chen-chenghua-chinese.pdf/@@download/file/CHEN Chenghua Chinese.pdf",
+            "name": " Chinese (Simplified)"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "CHEN CHENGHUA",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "35864dde9dbe4d058f9e372a6ea04b4f",
+        "path": "/wanted/counterintelligence/chen-chenghua",
+        "remarks": null,
+        "aliases": [
+          "Chenghua Chen"
+        ],
+        "ncic": null,
+        "details": null,
+        "subjects": [
+          "Counterintelligence",
+          "China Threat"
+        ],
+        "eyes": null,
+        "publication": "2022-10-18T18:44:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "Asian",
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/counterintelligence/chen-chenghua",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newyork"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": [
+          "Director of the 10th Review and Investigation Office of the Shandong Provincial Commission for Discipline Inspection"
+        ],
+        "nationality": "Chinese",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": "asian",
+        "suspects": null,
+        "caution": "<p>Chen Chenghua, <a href=\"https://www.fbi.gov/wanted/counterintelligence/hou-xuexin\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/hou-xuexin\" data-linktype=\"external\" data-urltype=\"/view\">Hou Xuexin</a>, <a href=\"https://www.fbi.gov/wanted/counterintelligence/ming-chunde\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/ming-chunde\" data-linktype=\"external\" data-urltype=\"/view\">Ming Chunde</a>, <a href=\"https://www.fbi.gov/wanted/counterintelligence/tian-peng\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/tian-peng\" data-linktype=\"external\" data-urltype=\"/view\">Tian Peng</a>, and <a href=\"https://www.fbi.gov/wanted/counterintelligence/yuan-weidong\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/yuan-weidong\" data-linktype=\"external\" data-urltype=\"/view\">Yuan Weidong</a> are wanted for allegedly acting in a conspiracy to send government officials from the People's Republic of China (PRC) to the United States, and utilize assets located in the United States without notice to the United States government to surveil, harass, and threaten alleged fugitive and family members to coerce the target\u2019s repatriation to the PRC.</p>\r\n<p><br />On October 7, 2022, a federal arrest warrant was issued for Chen Chenghua in the United States District Court, Eastern District of New York, Brooklyn, New York, after he was charged with Conspiracy to Act as Agents of a Foreign Government and Conspiracy to Engage in Interstate Harassment.\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:31+00:00",
+        "languages": [
+          "Chinese"
+        ],
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Act as Agents of a Foreign Government; Conspiracy to Engage in Interstate Harassment",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/35864dde9dbe4d058f9e372a6ea04b4f"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtabaurdu.pdf/@@download/file/RazaMujtabaUrdu.pdf",
+            "name": " "
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "MUJTABA RAZA",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/mujtaba-raza/razamujtaba2.png"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "7e2490248a2746ccb011d7d11abea5a9",
+        "path": "/wanted/cyber/mujtaba-raza",
+        "remarks": "<p>Raza is thought to currently be in Karachi, Pakistan.</p>",
+        "aliases": [
+          "Mujtaba Ali Raza",
+          "Mujtaba Ali Liliani",
+          "Mujtaba Ali"
+        ],
+        "ncic": null,
+        "details": null,
+        "subjects": [
+          "Cyber's Most Wanted"
+        ],
+        "eyes": "brown",
+        "publication": "2021-03-15T07:47:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "October 21, 1987"
+        ],
+        "url": "https://www.fbi.gov/wanted/cyber/mujtaba-raza",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newark"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": "Pakistani",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": null,
+        "suspects": null,
+        "caution": "<p>Mujtaba Raza and <a href=\"https://www.fbi.gov/wanted/cyber/mohsin-raza\" data-val=\"https://www.fbi.gov/wanted/cyber/mohsin-raza\" data-linktype=\"external\" data-urltype=\"/view\">Mohsin Raza</a> are wanted for allegedly operating a fraudulent online business based in Karachi, Pakistan.\u00a0 Since at least 2011, the business known as SecondEye Solution (SecondEye), aka Forwarderz, allegedly sold digital images of false identity documents including passports, driver\u2019s licenses, bank statements, and national identity cards associated with more than 200 countries and territories.\u00a0 SecondEye marketed these fake documents for use verifying online accounts, which allowed SecondEye customers to defraud payment processing companies, e-commerce businesses, social media, and social networking platforms.\u00a0 On January 28, 2020, a federal arrest warrant was issued for Mujtaba Raza in the United States District Court, District of New Jersey, Newark, New Jersey, after he was charged with\u00a0Conspiracy to Produce and Transfer False Documents, Transfer of False Documents, False Use of Passports, and Aggravated Identity Theft.</p>\r\n<p>\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:31+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Produce and Transfer False Documents; Transfer of False Documents; False Use of Passports; Aggravated Identity Theft",
+        "place_of_birth": "Hyderabad, Pakistan",
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/7e2490248a2746ccb011d7d11abea5a9"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/download.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "PATRICK SCOTT, JR.",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr/scott1.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "6bc39f5fe60a404899acd3ea41999ec1",
+        "path": "/wanted/seeking-info/patrick-scott-jr",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>On February 3, 2018, Patrick Scott, Jr. was waiting at the bus stop at 62nd Street and Market Street in Oakland, California, to go to his grandmother's house.\u00a0 An unknown person approached him\u00a0and fired multiple shots, killing Patrick Scott, Jr.</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Seeking Information"
+        ],
+        "eyes": null,
+        "publication": "2018-07-02T10:33:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Victim",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/seeking-info/patrick-scott-jr",
+        "warning_message": null,
+        "reward_text": "The FBI is offering a reward of up to $20,000 for information leading to the arrest of the individual(s) responsible for the death of Patrick Scott, Jr.",
+        "age_max": null,
+        "field_offices": [
+          "sanfrancisco"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "information",
+        "scars_and_marks": null,
+        "sex": null,
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": null,
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:31+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Murder Victim\r\nOakland, California\r\nFebruary 3, 2018",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/6bc39f5fe60a404899acd3ea41999ec1"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin/hou-xuexin-chinese.pdf/@@download/file/HOU Xuexin Chinese.pdf",
+            "name": " Chinese (Simplified)"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "HOU XUEXIN",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "ed0db933b9154f6c8b67b67db42a7f77",
+        "path": "/wanted/counterintelligence/hou-xuexin",
+        "remarks": null,
+        "aliases": [
+          "Xuexin Hou"
+        ],
+        "ncic": null,
+        "details": null,
+        "subjects": [
+          "Counterintelligence",
+          "China Threat"
+        ],
+        "eyes": "brown",
+        "publication": "2022-10-18T15:37:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "Asian",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "May 26, 1970"
+        ],
+        "url": "https://www.fbi.gov/wanted/counterintelligence/hou-xuexin",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newyork"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": [
+          "Employee of the Shandong Provincial Commission for Discipline Inspection"
+        ],
+        "nationality": "Chinese",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": "asian",
+        "suspects": null,
+        "caution": "<p>Hou Xuexin, <a href=\"https://www.fbi.gov/wanted/counterintelligence/chen-chenghua\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/chen-chenghua\" data-linktype=\"external\" data-urltype=\"/view\">Chen Chenghua</a>, <a href=\"https://www.fbi.gov/wanted/counterintelligence/ming-chunde\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/ming-chunde\" data-linktype=\"external\" data-urltype=\"/view\">Ming Chunde</a>, <a href=\"https://www.fbi.gov/wanted/counterintelligence/tian-peng\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/tian-peng\" data-linktype=\"external\" data-urltype=\"/view\">Tian Peng,</a> and <a href=\"https://www.fbi.gov/wanted/counterintelligence/yuan-weidong\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/yuan-weidong\" data-linktype=\"external\" data-urltype=\"/view\">Yuan Weidong</a> are wanted for allegedly acting in a conspiracy to send government officials from the People's Republic of China (PRC) to the United States, and utilize assets located in the United States without notice to the United States government to surveil, harass, and threaten alleged fugitive and family members to coerce the target\u2019s repatriation to the PRC.</p>\r\n<p>\u00a0</p>\r\n<p>On October 7, 2022, a federal arrest warrant was issued for Hou Xuexin in the United States District Court, Eastern District of New York, Brooklyn, New York, after he was charged with Conspiracy to Act as Agents of a Foreign Government and Conspiracy to Engage in Interstate Harassment.</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:31+00:00",
+        "languages": [
+          "Chinese"
+        ],
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Act as Agents of a Foreign Government; Conspiracy to Engage in Interstate Harassment",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/ed0db933b9154f6c8b67b67db42a7f77"
+      },
+      {
+        "age_min": 25,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/public-alert_jane-doe-1998-final.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "JANE DOE - ASTORIA, NEW YORK",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155_2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155_2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155_2.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155-3.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155-3.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york/janedoe6155-3.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "ee49f8c2eb074823a21bcff82df137d9",
+        "path": "/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york",
+        "remarks": "<p>The victim was wearing blue jeans, a white sweater, an orange T-shirt with a flag and Statue of Liberty emblem, white socks, and a scarf.\u00a0</p>",
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>On January 12, 1998, an unknown Hispanic female was discovered at the Turf Motel in Astoria, New York. The victim was between 25 and 35 years old (at time of recovery), approximately 5\u20191\u201d tall and 143 pounds, with black hair and brown eyes. To date, this Hispanic female remains unidentified.</p>",
+        "subjects": [
+          "ViCAP Unidentified Persons"
+        ],
+        "eyes": "brown",
+        "publication": "2024-03-05T09:56:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White (Hispanic)",
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---astoria-new-york",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": 35,
+        "field_offices": null,
+        "height_min": 61,
+        "weight_min": 143,
+        "additional_information": null,
+        "weight_max": 143,
+        "build": null,
+        "height_max": 61,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Female",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": "hispanic",
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:30+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": "25 to 35 years old",
+        "description": "Astoria, New York\r\nJanuary 12, 1998",
+        "place_of_birth": null,
+        "weight": "143 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/ee49f8c2eb074823a21bcff82df137d9"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benosspanish.pdf/@@download/file/benosspanish.pdf",
+            "name": "EN ESPAOL"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/emmsarabic2.pdf/@@download/file/emmsArabic2.pdf",
+            "name": " "
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benossimplifiedchinese.pdf/@@download/file/benosSimplifiedChinese.pdf",
+            "name": " Chinese (Simplified)"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benostraditionalchinese.pdf/@@download/file/benosTraditionalChinese.pdf",
+            "name": " Chinese (Traditional)"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benoskorean.pdf/@@download/file/benosKorean.pdf",
+            "name": ""
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "ALEJANDRO CAO DE BENOS",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/@@images/image"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos2.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos2.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos2.jpg"
+          },
+          {
+            "caption": "",
+            "large": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos3.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos3.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos/benos3.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "421f5461e4b34c82a6930bd1ebb0d792",
+        "path": "/wanted/counterintelligence/alejandro-cao-de-benos",
+        "remarks": "<p>Alejandro Cao de Ben\u00f3s is known to live in Spain.</p>",
+        "aliases": [
+          "Alejandro Cao de Ben\u00f3s de Les y P\u00e9rez",
+          "Cho Son-il",
+          "Jo Seon Il"
+        ],
+        "ncic": "W046384133",
+        "details": null,
+        "subjects": [
+          "Counterintelligence"
+        ],
+        "eyes": "brown",
+        "publication": "2022-04-27T11:22:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White (Hispanic)",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "December 24, 1974"
+        ],
+        "url": "https://www.fbi.gov/wanted/counterintelligence/alejandro-cao-de-benos",
+        "warning_message": "SHOULD BE CONSIDERED AN INTERNATIONAL FLIGHT RISK",
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newyork"
+        ],
+        "height_min": 68,
+        "weight_min": 250,
+        "additional_information": null,
+        "weight_max": 250,
+        "build": null,
+        "height_max": 68,
+        "occupations": [
+          "Businessperson",
+          "IT Consultant"
+        ],
+        "nationality": "Spanish",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown",
+        "hair": "brown",
+        "race": "hispanic",
+        "suspects": null,
+        "caution": "<p>Alejandro Cao de Ben\u00f3s is wanted for allegedly conspiring to violate the International Emergency Economic Powers Act (IEEPA). Specifically, conspiring to violate United States sanctions on the Democratic People\u2019s Republic of Korea (\u201cDPRK\u201d or \u201cNorth Korea\u201d) by working with an American citizen to illegally provide cryptocurrency and blockchain technology services to the DPRK.</p>\r\n<p>\u00a0</p>\r\n<p>Beginning in or about early 2018, Cao de Ben\u00f3s, the founder of the \u201cKorean Friendship Association,\u201d a pro-DPRK affinity organization, organized the \u201cPyongyang Blockchain and Cryptocurrency Conference\u201d for the benefit of the DPRK.\u00a0 Cao de Ben\u00f3s allegedly recruited an American cryptocurrency expert to provide services to the DPRK at the Conference and arranged his travel to the DPRK in April of 2019 for this purpose, in violation of United States sanctions.\u00a0 Cao de Ben\u00f3s allegedly coordinated approval from the DPRK government for the expert's participation in the Conference and continued to conspire afterwards to include holding a second cryptocurrency conference in the DPRK in 2020.\u00a0 Cao de Ben\u00f3s allegedly took steps in an effort to conceal these activities, and the expert's role in the conspiracy, from United States authorities.\u00a0 The expert was arrested by United States authorities in November of 2019, disrupting the scheme and the second conference planned for 2020.\u00a0 At no time did Cao de Ben\u00f3s, or co-conspirator <a href=\"https://www.fbi.gov/wanted/counterintelligence/christopher-douglas-emms\" data-val=\"https://www.fbi.gov/wanted/counterintelligence/christopher-douglas-emms\" data-linktype=\"external\" data-urltype=\"/view\">Christopher Douglas Emms</a>, obtain permission from the Department of the Treasury, Office of Foreign Assets Control (\u201cOFAC\u201d), to provide goods, services, or technology to the DPRK, as is required by law.</p>\r\n<p>\u00a0</p>\r\n<p>A federal arrest warrant was issued for\u00a0Cao de Ben\u00f3s in the United States District Court, Southern District of New York, New York, New York, on January 27, 2022, after he was charged with\u00a0Conspiracy to Violate the International Emergency Economic Powers Act (IEEPA).</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:30+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Violate the International Emergency Economic Powers Act (IEEPA)",
+        "place_of_birth": "Spain",
+        "weight": "Approximately 250 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/421f5461e4b34c82a6930bd1ebb0d792"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/sergey-aleksandrovich-morgachev-8-5x11.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/morgachevrussian.pdf/@@download/file/morgachevrussian.pdf",
+            "name": " "
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Blue",
+        "title": "SERGEY ALEKSANDROVICH MORGACHEV",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "c9444d9fc13f47de89f25b1a17249021",
+        "path": "/wanted/cyber/sergey-aleksandrovich-morgachev",
+        "remarks": "<p>Morgachev is alleged to have been a Russian military intelligence officer holding the rank of Lieutenant Colonel, assigned to Unit 26165.\u00a0 Morgachev was last known to be located in Moscow, Russia.</p>",
+        "aliases": [
+          "\u041c\u043e\u0440\u0433\u0430\u0447\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447"
+        ],
+        "ncic": "W984305395",
+        "details": "<p>On July 13, 2018, a federal grand jury sitting in the District of Columbia returned an indictment\u00a0against 12 Russian military intelligence officers for their alleged roles in <a href=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-val=\"https://www.fbi.gov/wanted/cyber/russian-interference-in-2016-u-s-elections\" data-urltype=\"/view\" data-linktype=\"external\">interfering with the 2016 United States (U.S.) elections</a>.\u00a0 The indictment charges 11 defendants,\u00a0Sergey Aleksandrovich Morgachev, <a href=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-val=\"https://www.fbi.gov/wanted/cyber/artem-andreyevich-malyshev\" data-urltype=\"/view\" data-linktype=\"external\">Artem Andreyevich Malyshev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-viktorovich-lukashev\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Viktorovich Lukashev</a>, <a href=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-val=\"https://www.fbi.gov/wanted/cyber/boris-alekseyevich-antonov\" data-urltype=\"/view\" data-linktype=\"external\">Boris Alekseyevich Antonov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-val=\"https://www.fbi.gov/wanted/cyber/dmitriy-sergeyevich-badin\" data-urltype=\"/view\" data-linktype=\"external\">Dmitriy Sergeyevich Badin</a>, <a href=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-val=\"https://www.fbi.gov/wanted/cyber/ivan-sergeyevich-yermakov\" data-urltype=\"/view\" data-linktype=\"external\">Ivan Sergeyevich Yermakov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-val=\"https://www.fbi.gov/wanted/cyber/nikolay-yuryevich-kozachek\" data-urltype=\"/view\" data-linktype=\"external\">Nikolay Yuryevich Kozachek</a>, <a href=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-val=\"https://www.fbi.gov/wanted/cyber/pavel-vyacheslavovich-yershov\" data-urltype=\"/view\" data-linktype=\"external\">Pavel Vyacheslavovich Yershov</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk</a>, <a href=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksey-aleksandrovich-potemkin\" data-urltype=\"/view\" data-linktype=\"external\">Aleksey Aleksandrovich Potemkin</a>, and Viktor Borisovich Netyksho, with a computer hacking conspiracy involving gaining unauthorized access into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, stealing documents from those computers, and staging releases of the stolen documents to interfere with the 2016 U.S. presidential election.\u00a0 The indictment also charges these defendants with aggravated identity theft, false registration of a domain name,\u00a0and conspiracy to commit money laundering.\u00a0 Two defendants, <a href=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-val=\"https://www.fbi.gov/wanted/cyber/aleksandr-vladimirovich-osadchuk\" data-urltype=\"/view\" data-linktype=\"external\">Aleksandr Vladimirovich Osadchuk </a>and <a href=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-val=\"https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev\" data-urltype=\"/view\" data-linktype=\"external\">Anatoliy Sergeyevich Kovalev</a>, are charged with a separate conspiracy to commit computer crimes, relating to hacking into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections.\u00a0 The United States\u00a0District Court for the District of Columbia in Washington, D.C. issued a federal\u00a0arrest warrant for Sergey Aleksandrovich Morgachev upon the grand jury\u2019s return of the indictment.</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Cyber's Most Wanted"
+        ],
+        "eyes": "blue",
+        "publication": "2018-09-04T10:10:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "May 22, 1977"
+        ],
+        "url": "https://www.fbi.gov/wanted/cyber/sergey-aleksandrovich-morgachev",
+        "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS, AN INTERNATIONAL FLIGHT RISK, AND AN ESCAPE RISK",
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": null,
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": [
+          "Officer in the Russian Federation\u2019s Main Intelligence Directorate of the General Staff (GRU)"
+        ],
+        "nationality": "Ukrainian",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown",
+        "hair": "brown",
+        "race": "white",
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:30+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Commit an Offense Against the United States; False Registration of a Domain Name; Aggravated Identity Theft; Conspiracy to Commit Money Laundering",
+        "place_of_birth": "Kiev, Ukraine",
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/c9444d9fc13f47de89f25b1a17249021"
+      },
+      {
+        "age_min": 26,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/flagstaff-az-10-10-19.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "UNIDENTIFIED INDIVIDUAL - FLAGSTAFF, ARIZONA",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "b5e7d23089834cf79709b9042400ca8e",
+        "path": "/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+        "remarks": "<p>The unidentified individual wore a \"police\" hat, and carried a \"Mag Light\"-style flashlight.</p>",
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>On August 14, 2016, the victim and her friend were in a parked vehicle in Flagstaff, Arizona. The two had been at this location, which was extremely dark, for a short time, waiting for a friend, before falling asleep in the vehicle. Their seats were reclined and the vehicle was off. Both had recently left from a bar and had been drinking that night. While asleep in the car, the victim was awoken to a knock on the driver door window. The subject at the window identified himself as a police officer and began questioning the two about a possible DUI. The suspect requested the victim\u2019s license, registration and insurance. The victim was directed out of the vehicle and brought to the rear of her car. The victim was further questioned and \"frisked\" on the inside of her legs and breasts. The suspect told the victim that because the keys were in the ignition, she could face a DUI charge. The victim questioned the suspect as to his name and badge number but was told to stop asking or she would be handcuffed and arrested. The suspect directed the victim to come with him to his patrol vehicle to submit to a portable breath test. The suspect walked the victim to a nearby alley where he pushed her against a telephone pole. The suspect first digitally penetrated the victim and then sexually assaulted (penile) her. The victim cried out, which her friend heard, and then the friend called out for her and the suspect ran off. The suspect fled from the assault area on foot.</p>",
+        "subjects": [
+          "ViCAP Homicides and Sexual Assaults"
+        ],
+        "eyes": null,
+        "publication": "2019-10-10T08:22:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White",
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/unidentified-individual---flagstaff-arizona",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": 34,
+        "field_offices": null,
+        "height_min": 70,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": 71,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": "white",
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:29+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": "26 to 34 years old",
+        "description": "Flagstaff, Arizona\r\nAugust 14, 2016",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/b5e7d23089834cf79709b9042400ca8e"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/tanweebengchinese.pdf/@@download/file/TanWeeBengChinese.pdf",
+            "name": ""
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "TAN WEE BENG",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "1ef7b9c988984e4aa6d87a8557fbbf1f",
+        "path": "/wanted/counterintelligence/tan-wee-beng",
+        "remarks": "<p>Tan Wee Beng is known to live in Singapore.</p>",
+        "aliases": [
+          "\"WB\"",
+          "Wee Beng Tan",
+          "Marcus Tan",
+          "Weebeng Tan"
+        ],
+        "ncic": "W004707803",
+        "details": null,
+        "subjects": [
+          "Counterintelligence"
+        ],
+        "eyes": "brown",
+        "publication": "2018-10-23T09:19:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "Asian",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "February 14, 1977"
+        ],
+        "url": "https://www.fbi.gov/wanted/counterintelligence/tan-wee-beng",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newyork"
+        ],
+        "height_min": 68,
+        "weight_min": 157,
+        "additional_information": null,
+        "weight_max": 157,
+        "build": null,
+        "height_max": 68,
+        "occupations": [
+          "Commodities Broker"
+        ],
+        "nationality": "Singaporean",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Black",
+        "hair": "black",
+        "race": "asian",
+        "suspects": null,
+        "caution": "<p>Tan Wee Beng is wanted for allegedly\u00a0conspiring to violate\u00a0the International Emergency Economic Powers Act (IEEPA) by doing business with North Korean proliferation entities.\u00a0 Tan Wee Beng is the director and major shareholder of Wee Tiong (S) Pte Ltd, a Singapore-based commodities trading company.\u00a0 Over several years,\u00a0dating back to at least 2011, Tan Wee Beng and others in his company allegedly fulfilled millions of dollars in commodities contracts for North Korea.\u00a0 To do so, Tan Wee Beng allegedly made a concerted effort to launder money through the\u00a0United\u00a0States\u00a0and Singaporean financial systems by\u00a0concealing payment origins and structuring transactions to avoid regulator scrutiny.\u00a0 In some cases, when wire payments were rejected, Tan Wee Beng and Wee Tiong (S) Pte Ltd orchestrated payment in bulk cash, often hand-delivered by North Koreans.\u00a0 Over this period, Tan Wee Beng and his co-conspirators also allegedly knew of and took efforts to evade financial sanctions.\u00a0\u00a0On\u00a0August 29, 2018, a\u00a0federal arrest warrant was issued for Tan Wee Beng in the United States District Court, Southern District of New York, New York, New York, after he was charged with conspiracy to violate the IEEPA, bank fraud, conspiracy to commit bank fraud, money laundering, conspiracy to commit money laundering, and conspiracy to defraud the United States.</p>\r\n<p>.</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:29+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Conspiracy to Violate the International Emergency Economic Powers Act (IEEPA); Bank Fraud; Conspiracy to Commit Bank Fraud; Money Laundering; Conspiracy to Commit Money Laundering; Conspiracy to Defraud the United States",
+        "place_of_birth": null,
+        "weight": "Approximately 157 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/1ef7b9c988984e4aa6d87a8557fbbf1f"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/seeking-info/shootings-in-new-haven/download.pdf",
+            "name": "English"
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": null,
+        "title": "SHOOTINGS IN NEW HAVEN",
+        "images": [
+          {
+            "caption": null,
+            "large": "https://www.fbi.gov/wanted/seeking-info/shootings-in-new-haven/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/seeking-info/shootings-in-new-haven/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/seeking-info/shootings-in-new-haven/@@images/image"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "d0c9d24f7e3e44978adf1a2d26892fdc",
+        "path": "/wanted/seeking-info/shootings-in-new-haven",
+        "remarks": null,
+        "aliases": null,
+        "ncic": null,
+        "details": "<p>The Federal Bureau of Investigation's New Haven Field Office and the New Haven Police Department in Connecticut are seeking the public\u2019s assistance with identifying individuals involved in recent gun violence within the city of New Haven, Connecticut.\u00a0 Much of the violence occurred in the Hill, West Rock, and Fair Haven sections of New Haven.\u00a0</p>\r\n<p>\u00a0</p>",
+        "subjects": [
+          "Seeking Information"
+        ],
+        "eyes": null,
+        "publication": "2024-07-26T15:09:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": null,
+        "person_classification": "Main",
+        "dates_of_birth_used": null,
+        "url": "https://www.fbi.gov/wanted/seeking-info/shootings-in-new-haven",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "newhaven"
+        ],
+        "height_min": null,
+        "weight_min": null,
+        "additional_information": null,
+        "weight_max": null,
+        "build": null,
+        "height_max": null,
+        "occupations": null,
+        "nationality": null,
+        "reward_max": 0,
+        "poster_classification": "information",
+        "scars_and_marks": null,
+        "sex": null,
+        "coordinates": [
+          
+        ],
+        "hair_raw": null,
+        "hair": null,
+        "race": null,
+        "suspects": null,
+        "caution": null,
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:29+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "July 14, 2024 through Present\r\nNew Haven, Connecticut",
+        "place_of_birth": null,
+        "weight": null,
+        "@id": "https://api.fbi.gov/@wanted-person/d0c9d24f7e3e44978adf1a2d26892fdc"
+      },
+      {
+        "age_min": null,
+        "files": [
+          {
+            "url": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/download.pdf",
+            "name": "English"
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/dubinskyukrainian.pdf/@@download/file/dubinskyukrainian.pdf",
+            "name": "  "
+          },
+          {
+            "url": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/dubinskyrussian.pdf/@@download/file/dubinskyrussian.pdf",
+            "name": " "
+          }
+        ],
+        "possible_states": null,
+        "eyes_raw": "Brown",
+        "title": "VOLODYMYR DUBINSKY",
+        "images": [
+          {
+            "caption": "Volodymyr Dubinsky",
+            "large": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/@@images/image"
+          },
+          {
+            "caption": "Leonid Doubinski",
+            "large": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/doubinski.jpg/@@images/image/large",
+            "thumb": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/doubinski.jpg/@@images/image/thumb",
+            "original": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky/doubinski.jpg"
+          }
+        ],
+        "locations": null,
+        "status": "na",
+        "uid": "ba916f70bdcd4ee8872b6e6f76643be1",
+        "path": "/wanted/wcc/volodymyr-dubinsky",
+        "remarks": "<p>The brothers are thought to be residing in Ukraine.</p>",
+        "aliases": [
+          "Vlad Dubinsky",
+          "Vladimir Dubinsky",
+          "Voldmyr Dubinsky",
+          "Volodymyr Gerchenkroi",
+          "Volodymyr M. Dubinsky",
+          "Volodymyr Doubinski"
+        ],
+        "ncic": "W942236875",
+        "details": null,
+        "subjects": [
+          "White-Collar Crime"
+        ],
+        "eyes": "brown",
+        "publication": "2018-10-22T10:50:00",
+        "complexion": null,
+        "possible_countries": null,
+        "race_raw": "White",
+        "person_classification": "Main",
+        "dates_of_birth_used": [
+          "January 28, 1965"
+        ],
+        "url": "https://www.fbi.gov/wanted/wcc/volodymyr-dubinsky",
+        "warning_message": null,
+        "reward_text": null,
+        "age_max": null,
+        "field_offices": [
+          "sacramento"
+        ],
+        "height_min": 66,
+        "weight_min": 220,
+        "additional_information": null,
+        "weight_max": 220,
+        "build": null,
+        "height_max": 66,
+        "occupations": [
+          "Real Estate Development",
+          "Internet Business"
+        ],
+        "nationality": "Ukrainian",
+        "reward_max": 0,
+        "poster_classification": "default",
+        "scars_and_marks": null,
+        "sex": "Male",
+        "coordinates": [
+          
+        ],
+        "hair_raw": "Brown",
+        "hair": "brown",
+        "race": "white",
+        "suspects": null,
+        "caution": "<p>Volodymyr Dubinsky and his brother, <a href=\"https://www.fbi.gov/wanted/wcc/leonid-doubinski\" data-val=\"https://www.fbi.gov/wanted/wcc/leonid-doubinski\" data-urltype=\"/view\" data-linktype=\"external\">Leonid Doubinski</a>, are wanted for their alleged involvement in a mortgage fraud scheme in California.\u00a0\u00a0The brothers\u00a0built, developed, and sold real estate in California from August 2006 through May 2008.\u00a0 As the real estate market declined, the brothers are alleged to have recruited family members, employees, and associates with good credit to act as straw buyers for residential properties.</p>\r\n<p>\u00a0</p>\r\n<p>Federal arrest warrants were issued for both Volodymyr Dubinsky and Leonid Doubinski on September 14, 2012, in the United States District Court for the Eastern District of California, Sacramento, California, after they were charged with mail fraud.</p>\r\n<p>\u00a0</p>",
+        "reward_min": 0,
+        "modified": "2024-09-08T00:05:29+00:00",
+        "languages": null,
+        "legat_names": null,
+        "age_range": null,
+        "description": "Mail Fraud",
+        "place_of_birth": "Ukraine",
+        "weight": "220 pounds",
+        "@id": "https://api.fbi.gov/@wanted-person/ba916f70bdcd4ee8872b6e6f76643be1"
+      }
+    ],
+    "page": 2
+  }
