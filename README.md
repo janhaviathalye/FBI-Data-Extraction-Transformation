@@ -1,10 +1,10 @@
-# cis6930fa24-assignment0
+# FBI Most Wanted List Data Extraction and Transformation
 
 Name: Janhavi Athalye
 
-# Assignment Description 
+# Project Description 
 
-The Data Engineering Assignment 0 involved a GET REST API call to the FBI Most Wanted list API to extract data related to the criminal records present. The straightforward GET call could be modified by adding page as a parameter to it which specified the corresponding page number from where the records would be fetched. There were around 20 records present per page number and in total 1077 records in the FBI most wanted list.
+This project involved a GET REST API call to the FBI Most Wanted list API to extract data related to the criminal records present. The straightforward GET call could be modified by adding page as a parameter to it which specified the corresponding page number from where the records would be fetched. There were around 20 records present per page number and in total 1077 records in the FBI most wanted list.
 
 Up next, the assignment involved extracting 3 specific fields of data from the entire list of fields corresponding to a criminal record. The 3 fields were: title: which specified the individual's name, subjects: which specified the crimes committed by the individual & field_offices: which specified the names of places where investigation has been conducted for the same.
 
